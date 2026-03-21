@@ -5,9 +5,9 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [],
+      "args": [], //test
       "stopAtEntry": false,
-      "externalConsole": true,
+      "externalConsole": true,  //test 123
       "cwd": "f:/github_repos/project",
       "program": "f:/github_repos/project/build/Debug/outDebug",
       "MIMode": "gdb",
