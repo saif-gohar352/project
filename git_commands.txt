@@ -1,0 +1,6 @@
+git add .
+اضافة ملفات
+git commit -m "test"
+اضافة تعليق
+git push origin main
+ارفعها على النت 
