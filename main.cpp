@@ -26,6 +26,7 @@ int main()
      cout<<"your grade is "<<gohar<<endl;
      cout<<"your gpa is "<<gpa<<endl;
      cout<<"your success is "<<success<<endl;
+     
 
     
 
